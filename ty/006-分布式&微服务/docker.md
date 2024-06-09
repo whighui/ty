@@ -1,15 +1,8 @@
 # docker 
-
-
-
-
+docker 明白一下镜像原理
 
 # Mysql
-
-
-
 包含具体参数配置
-
 https://ost.51cto.com/posts/24358
 
 ```bash
@@ -32,14 +25,7 @@ docker run -p 3306:3306 --name mysql -itd \
  # ---命令结束，下面都是输出
  # 输出的是容器的 ID，表示容器已成功启动。
 ```
-
-
-
-
-
 # redis
-
-
 
 # kafka
 
